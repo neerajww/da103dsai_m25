@@ -1,0 +1,7 @@
+---
+layout: assignments
+title: Assignments
+# permalink: /assignments/
+---
+Shared in MS Teams (private).
+<!-- - [*Assignment-cum-Project-01*](/static_files/docs/assign_cum_project_course_iitG_da323_W25.pdf) -->

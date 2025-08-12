@@ -1,0 +1,19 @@
+I"Ï<!--- <dl id="" class="wp-caption alignright" style="max-width: 175px">
+
+<dt><a href=""><img class="" src="/da103dsai_m25/_images/cover2.jpg" alt="" /></a></dt>
+
+<dd></dd>
+</dl>
+ -->
+<ul>
+  <li><a href="https://github.com/prasertcbs/basic-dataset">Tabular: A collection of a variety of open-access data documented as CSV files</a></li>
+  <li><a href="https://github.com/Yuan-ManX/ai-audio-datasets?tab=readme-ov-file">Audio: A collection of open-access speech, music, and sound effects datasets</a></li>
+  <li><a href="https://github.com/niderhoff/nlp-datasets">Text: A collection of open-access documented textual data for a variety of NLP tasks</a></li>
+  <li><a href="https://yann.lecun.com/exdb/mnist/">Image: MNIST Handwritten Digits</a></li>
+  <li><a href="https://github.com/zalandoresearch/fashion-mnist">Image: Fashion-MNIST Article Images</a></li>
+  <li><a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10/100: Tiny Natural Images Dataset</a></li>
+  <li><a href="https://cocodataset.org/#home">COCO: Common Objects in Context Image Dataset</a></li>
+  <li><a href="https://open-meteo.com/">Weather: Free weather API</a></li>
+  <li><a href="https://dagshub.com/datasets/">Search Datasets: DagsHub</a></li>
+</ul>
+:ET

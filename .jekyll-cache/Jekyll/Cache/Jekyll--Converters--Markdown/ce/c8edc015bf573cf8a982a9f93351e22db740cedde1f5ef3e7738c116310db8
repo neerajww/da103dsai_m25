@@ -1,0 +1,23 @@
+I"�<p><strong>Suggested Readings:</strong></p>
+<ul>
+  <li><a href="http://example.com">Readings 1</a></li>
+  <li><a href="http://example.com">Readings 2</a></li>
+</ul>
+
+<h3 id="the-problem-with-low-resource-languages">The Problem with Low-Resource Languages</h3>
+<p>The lecture begins by discussing <strong>low-resource languages</strong> that are on the verge of extinction. The instructor points out that when a language disappears, so does the unique knowledge associated with it. This poses a challenge for AI development, as building models like ChatGPT for these languages requires a community of speakers and extensive data.</p>
+
+<hr />
+
+<h3 id="perception-vs-cognition">Perception vs. Cognition</h3>
+<p>A central theme is the distinction between <strong>perception</strong> and <strong>cognition</strong>.</p>
+<ul>
+  <li><strong>Perception</strong> is the initial process of taking in raw sensory signals and turning them into meaningful patterns. The instructor highlights humans’ impressive perceptual abilities, like recognizing a face in dim light or identifying a voice’s gender.</li>
+  <li><strong>Cognition</strong> is the higher-level mental process that uses these perceived patterns to reason, make decisions, and learn. An example is not just hearing a sound (perception), but understanding the emotion behind it (cognition). The lecture also touches on <strong>multi-sensory perception</strong>, where the brain combines input from different senses to get a more complete picture.</li>
+</ul>
+
+<hr />
+
+<h3 id="the-mind-brain-and-evolution">The Mind, Brain, and Evolution</h3>
+<p>The lecture touches on the philosophical debate of <strong>dualism vs. materialism</strong> regarding the mind. The materialist view, which is the foundation of AI and neuroscience, holds that the mind is a product of the physical brain. This means learning involves physical changes in the brain’s neural connections, a process that can be modeled. The instructor also briefly discusses the <strong>evolution of the brain</strong>, from simple organisms like jellyfish to more complex bilateral animals, suggesting that understanding this evolution can provide insights for designing intelligent systems.</p>
+:ET
