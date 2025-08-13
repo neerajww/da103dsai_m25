@@ -13,6 +13,6 @@ links:
     - url: /static_files/docs/DA103DSAI_M25_lect_05_web.pdf 
       name: slides
 ---
-<!-- **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com) -->
+**Suggested Readings:**
+- [Searching for Computer Vision North Stars, by Li Fei-Fei and Ranjay Krishna](https://direct.mit.edu/daed/article-pdf/151/2/85/2060580/daed_a_01902.pdf)
+<!-- - [Readings 2](http://example.com) -->

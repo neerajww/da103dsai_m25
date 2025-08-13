@@ -13,6 +13,6 @@ links:
     - url: /static_files/docs/DA103DSAI_M25_lect_03_web.pdf 
       name: slides
 ---
-<!-- **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com) -->
+**Suggested Readings:**
+- [On the Measure of Intelligence, by Francois Chollet](https://arxiv.org/pdf/1911.01547)
+- [I Do Not Think It Means What You Think It Means: Artificial Intelligence, Cognitive Work & Scale, by Kevin Scott](https://direct.mit.edu/daed/article-pdf/151/2/75/2060571/daed_a_01901.pdf)

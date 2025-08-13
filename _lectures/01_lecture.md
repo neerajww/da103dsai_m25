@@ -13,6 +13,8 @@ links:
     - url: /static_files/docs/DA103DSAI_M25_lect_01_web.pdf 
       name: slides
 ---
-<!-- **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com) -->
+**Suggested Readings:**
+- [50 years of Data Science, by David Donoho](https://www.tandfonline.com/doi/epdf/10.1080/10618600.2017.1384734?needAccess=true)
+- [A Golden Decade of Deep Learning: Computing Systems & Applications, by Jeffrey Dean](https://direct.mit.edu/daed/article/151/2/58/110623/A-Golden-Decade-of-Deep-Learning-Computing-Systems)
+- [The Future of Jobs Report 2025, by World Economic Forum](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)
+- [Try Google Ngram Viewer](https://books.google.com/ngrams/)
